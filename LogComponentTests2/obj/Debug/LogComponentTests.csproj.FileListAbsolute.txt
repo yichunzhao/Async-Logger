@@ -1,0 +1,10 @@
+C:\Users\YNZ\source\LogTask\LogComponentTests2\bin\Debug\LogComponentTests2.dll
+C:\Users\YNZ\source\LogTask\LogComponentTests2\bin\Debug\LogComponentTests2.pdb
+C:\Users\YNZ\source\LogTask\LogComponentTests2\bin\Debug\LogTest.dll
+C:\Users\YNZ\source\LogTask\LogComponentTests2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\YNZ\source\LogTask\LogComponentTests2\bin\Debug\LogTest.pdb
+C:\Users\YNZ\source\LogTask\LogComponentTests2\obj\Debug\LogComponentTests.csprojAssemblyReference.cache
+C:\Users\YNZ\source\LogTask\LogComponentTests2\obj\Debug\LogComponentTests.csproj.CoreCompileInputs.cache
+C:\Users\YNZ\source\LogTask\LogComponentTests2\obj\Debug\LogComponentTests.csproj.CopyComplete
+C:\Users\YNZ\source\LogTask\LogComponentTests2\obj\Debug\LogComponentTests2.dll
+C:\Users\YNZ\source\LogTask\LogComponentTests2\obj\Debug\LogComponentTests2.pdb

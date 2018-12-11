@@ -1,0 +1,10 @@
+C:\Users\YNZ\source\LogTask\Application\bin\Debug\LogUsers.exe.config
+C:\Users\YNZ\source\LogTask\Application\bin\Debug\LogUsers.exe
+C:\Users\YNZ\source\LogTask\Application\bin\Debug\LogUsers.pdb
+C:\Users\YNZ\source\LogTask\Application\bin\Debug\LogTest.dll
+C:\Users\YNZ\source\LogTask\Application\bin\Debug\LogTest.pdb
+C:\Users\YNZ\source\LogTask\Application\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Users\YNZ\source\LogTask\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\YNZ\source\LogTask\Application\obj\Debug\Application.csproj.CopyComplete
+C:\Users\YNZ\source\LogTask\Application\obj\Debug\LogUsers.exe
+C:\Users\YNZ\source\LogTask\Application\obj\Debug\LogUsers.pdb

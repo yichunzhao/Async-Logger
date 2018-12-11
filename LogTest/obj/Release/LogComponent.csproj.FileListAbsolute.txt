@@ -1,0 +1,6 @@
+C:\Users\YNZ\source\LogTask\LogTest\bin\Release\LogTest.dll
+C:\Users\YNZ\source\LogTask\LogTest\bin\Release\LogTest.pdb
+C:\Users\YNZ\source\LogTask\LogTest\obj\Release\LogComponent.csprojAssemblyReference.cache
+C:\Users\YNZ\source\LogTask\LogTest\obj\Release\LogComponent.csproj.CoreCompileInputs.cache
+C:\Users\YNZ\source\LogTask\LogTest\obj\Release\LogTest.dll
+C:\Users\YNZ\source\LogTask\LogTest\obj\Release\LogTest.pdb
